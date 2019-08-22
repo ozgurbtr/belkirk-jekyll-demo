@@ -8,3 +8,4 @@ banner_image: ''
 related_posts: []
 
 ---
+Lorem ipsum
